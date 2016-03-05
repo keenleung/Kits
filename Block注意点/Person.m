@@ -1,0 +1,19 @@
+//
+//  Person.m
+//  Object-c-Test
+//
+//  Created by Apple on 15/12/1.
+//  Copyright © 2015年 Apple. All rights reserved.
+//
+
+#import "Person.h"
+
+@implementation Person
+
+- (void)dealloc
+{
+    NSLog(@"Person dealloc.");
+    [super dealloc];
+}
+
+@end

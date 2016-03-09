@@ -39,6 +39,16 @@
 			<key>orderHint</key>
 			<integer>58</integer>
 		</dict>
+		<key>DatePicker 一个封装好的时间选择器.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>89</integer>
+		</dict>
+		<key>DatePicker(block 实现).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>90</integer>
+		</dict>
 		<key>DoAlertViewTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -873,6 +883,16 @@
 			<true/>
 		</dict>
 		<key>189494491C005987006196DA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>18BD746D1C901CB000FEBCC4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>18BD74901C903B7100FEBCC4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

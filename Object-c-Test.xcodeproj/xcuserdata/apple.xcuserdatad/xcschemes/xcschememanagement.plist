@@ -39,6 +39,11 @@
 			<key>orderHint</key>
 			<integer>58</integer>
 		</dict>
+		<key>DoAlertViewTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>87</integer>
+		</dict>
 		<key>IOSTest.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -179,6 +184,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>77</integer>
+		</dict>
+		<key>kvc 另一种实现方法.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>88</integer>
 		</dict>
 		<key>kvc.xcscheme</key>
 		<dict>
@@ -618,6 +628,16 @@
 			<true/>
 		</dict>
 		<key>183150AA1C427D180091C55A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>183445CA1C8DD03400BBD4C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>183446371C8EC6B300BBD4C6</key>
 		<dict>
 			<key>primary</key>
 			<true/>

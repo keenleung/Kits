@@ -34,6 +34,11 @@ int main(int argc, const char * argv[]) {
     
 
 
+    //setValue:obj forKeyPath:setValue:obj forKeyPath:
+    //1.先去看有没有跟key值相同的成员属性,如果有,就会调用该成员属性的set方法,给该成员属性赋值.
+    //2.如果没有跟它相同的成员属性的set方法, 会直接给该属性赋值.
+    //3.还会去判断有没有跟它相同名称,并且带有下划线的成员属性.如果有,就给该属性赋值.
+    //4.如果没有带有下划线的成员属性,就会直接报错.
 
     return 0;
 }

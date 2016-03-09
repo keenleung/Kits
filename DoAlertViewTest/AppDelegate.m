@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  ios的启动过程
+//  DoAlertViewTest
 //
-//  Created by Apple on 16/2/18.
+//  Created by Apple on 16/3/7.
 //  Copyright © 2016年 Apple. All rights reserved.
 //
 
@@ -16,7 +16,6 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    
     // Override point for customization after application launch.
     return YES;
 }
